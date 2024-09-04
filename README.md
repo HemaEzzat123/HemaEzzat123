@@ -22,7 +22,7 @@
 ---
 ### 🛠️ My Projects
 
-- **[E-commerce-native](https://github.com/AbdelrahmanHassanAlii/e-commerce-native):** This is a simple native project for shopping . Tech Stack: HTML, CSS, JavaScript.
+- **[E-commerce-native](https://github.com/HemaEzzat123/E-commerce-native):** This is a simple native project for shopping . Tech Stack: HTML, CSS, JavaScript.
 - **[Bank-System](https://github.com/HemaEzzat123/Bank-System):** A simple application for bank services. Tech Stack: Java , OOP.
 - **[Note App](https://github.com/HemaEzzat123/Note-App):** A simple application to make notes with more features like drawing . Tech Stack: Java , OOP.
 
