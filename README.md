@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ibrahim-ezzat-4b21a8234/).
 
-- 💬 Ask me about **JavaScript, Java, and OOP**.
+- 💬 Ask me about **Web Development, Java, and OOP**.
 
 - 📫 How to reach me: **hezzat.964@gmail.com**.
 
