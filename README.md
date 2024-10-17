@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/ibrahemezzat?logo=linkedin&style=for-the-badge" alt="ibrahemezzat" />
   </a> 
 </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**.
 
