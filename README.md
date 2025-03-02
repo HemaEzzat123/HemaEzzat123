@@ -37,8 +37,8 @@
   <a href="https://www.facebook.com/hema.ezzat.96" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.frontendmentor.io/profile/HemaEzzat123" target="blank">
-    FrontendMentor
+  <a href="https://mail.google.com/mail/u/0/?to=eng.ahmed.emad.work@gmail.com%22&fs=1&tf=cm" target="blank">
+       <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
