@@ -10,7 +10,7 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175" />
 
-- 🌱 I’m currently learning **React, Node.js, and MongoDB**.
+- 🌱 I’m currently learning **Next.js, Nest.js, and DevOps**.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HemaEzzat123).
 
