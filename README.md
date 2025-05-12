@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web Development, Java, and OOP**.
 
-- 📫 How to reach me: **hezzat964@gmail.com**.
+- 📫 How to reach me: **eng.ibrahim.ezzat.03@gmail.com**.
 
 ---
 ### 🛠️ My Projects
